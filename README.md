@@ -4,8 +4,7 @@ This script builds, packages, and installs a feature-rich KDE Plasma Applet (Pla
 
 It uses modern QtQuick/Kirigami components and is optimized for **KDE Plasma 6.4 and newer** versions.
 
-https://www.youtube.com/watch?v=wJyodwWJND4
-
+https://github.com/alduccino/Gif-Viewer_Plasmoid_KDE6/raw/refs/heads/main/GIF%20Plasmoid.mp4
 ![GIF Viewer](https://github.com/alduccino/Gif-Viewer_Plasmoid_KDE6/blob/main/GIF.png)
 ![GIF Viewer Settings](https://github.com/alduccino/Gif-Viewer_Plasmoid_KDE6/blob/main/GIF-Settings.png)
 ---
